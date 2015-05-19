@@ -1,6 +1,6 @@
 /*!
  *
- * seutje - Mind Wobbles
+ * @name Mind Wobbles
  *
  */
 
